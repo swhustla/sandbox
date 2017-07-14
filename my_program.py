@@ -1,1 +1,2 @@
-print("Hello world")
+var = "test"
+print("Hello world %s" % var)
